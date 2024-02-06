@@ -1,0 +1,32 @@
+{
+    "canciones":[
+        {
+          "id": 1,
+          "nombre": "Dias Nublados",
+          "artista": "Junior H",
+          "img": "DiasNublados",
+          "audio": "DiasNublados"
+        },
+        {
+          "id": 2,
+          "nombre": "La Diabla",
+          "artista": "Xavi",
+          "img": "LaDiabla",
+          "audio": "LaDiabla"
+        },
+        {
+          "id": 3,
+          "nombre": "Lou Lou",
+          "artista": "Natanael Cano ft(Gabito)",
+          "img": "LouLou",
+          "audio": "LOULOU"
+        },
+        {
+          "id": 4,
+          "nombre": "Una Bala",
+          "artista": "Milo J ft(Peso Pluma)",
+          "img": "UnaBala",
+          "audio": "UNABALA"
+        }
+      ]
+}
